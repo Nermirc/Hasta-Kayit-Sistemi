@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1727263006 source:c:\users\rakri\onedrive\masaüstü\c proje\sipılaspılas\hasta-takip-sistemi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
